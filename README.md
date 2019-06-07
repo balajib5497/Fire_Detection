@@ -1,6 +1,6 @@
-This system build on top of tensorflow object detection api (https://github.com/tensorflow/models/tree/master/research/object_detection)
+This system build on top of tensorflow object detection api(https://github.com/tensorflow/models/tree/master/research/object_detection).
 
-
+  To execute, run src/main.py
 
 ## Output 1:
 ![output1](https://github.com/balajib5497/Fire_Detection/blob/master/images/output1.png)
