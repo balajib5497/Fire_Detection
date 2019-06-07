@@ -1,6 +1,7 @@
-This system build on top of tensorflow object detection api(https://github.com/tensorflow/models/tree/master/research/object_detection).
+This application is built on top of tensorflow object detection api (https://github.com/tensorflow/models/tree/master/research/object_detection). 
 
-  To execute, run src/main.py
+- Used faster_rcnn_resnet101_coco pretrained model (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
+- To execute, run src/main.py
 
 ## Output 1:
 ![output1](https://github.com/balajib5497/Fire_Detection/blob/master/images/output1.png)
